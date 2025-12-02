@@ -10,7 +10,7 @@
 <br/>
 <br/>
 <br/>
-<h2 align="left">Languages and Technologies 🛠 </h2>
+<!-- <h2 align="left">Languages and Technologies 🛠 </h2>
 <br/>
 <div align="center">
   <div>
@@ -44,7 +44,7 @@
   </div>
   <img alt="anderson-stats" width=400 src='https://github-readme-stats.vercel.app/api?username=andersonmmdev&theme=synthwave&show_icons=true&hide=issues,contribs&rank_icon=github' />
 </div>
-<br/>
+<br/> -->
 <div align="left">
   <a href="mailto:andersonmmdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
